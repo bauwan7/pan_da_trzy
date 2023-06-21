@@ -1,0 +1,2 @@
+koniec, wystarczy push repozytorium z powrotem nd githuba
+zadanie wykonane z wykorzystaniem klienta lokalego GitKraken
